@@ -1,4 +1,4 @@
-# Deep Learning Challenge (Neural Networks)
+# Deep Learning Challenge (Neural Networks) Report
 
 ## Overview
 
